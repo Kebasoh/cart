@@ -5,7 +5,7 @@
        font-family: "montserrat";
 }
 body{
-    background:lightblue;
+    background:green;
 }
 .card{
     width: 360px;
@@ -60,6 +60,8 @@ body{
     font-size: 16px;
     opacity: 0.7;
     text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
 }
 .btn{
     display: block;

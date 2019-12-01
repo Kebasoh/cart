@@ -5,7 +5,7 @@
        font-family: "montserrat";
 }
 body{
-    background: orange;
+    background:lightblue;
 }
 .card{
     width: 360px;
@@ -68,7 +68,10 @@ body{
     padding: 10px;
     margin-top: 10px;
     transition: 0.3s;
+    color: white;
+    font-weight: bolder;
+    font-size: large;
 }
 .btn:hover{
-    background: #333;
+    background:orange;
 }
